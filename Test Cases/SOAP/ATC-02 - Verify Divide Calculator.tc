@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC-02 - Verify Divide Calculator</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>57045c57-bdd2-4ebf-9d17-87f96ea705b9</testCaseGuid>
+   <variable>
+      <defaultValue>12</defaultValue>
+      <description></description>
+      <id>143bd445-67d9-47b0-83f0-8292aad12179</id>
+      <masked>false</masked>
+      <name>n1</name>
+   </variable>
+   <variable>
+      <defaultValue>2</defaultValue>
+      <description></description>
+      <id>f1a16056-27ef-45bf-9d9a-c72adf658cf3</id>
+      <masked>false</masked>
+      <name>n2</name>
+   </variable>
+   <variable>
+      <defaultValue>200</defaultValue>
+      <description></description>
+      <id>eb6605be-b7ad-4baf-bb1c-579cd2f053f2</id>
+      <masked>false</masked>
+      <name>statusCode</name>
+   </variable>
+   <variable>
+      <defaultValue>6</defaultValue>
+      <description></description>
+      <id>1c627269-a2ee-412a-aefd-61fb2053064e</id>
+      <masked>false</masked>
+      <name>devideResult</name>
+   </variable>
+</TestCaseEntity>

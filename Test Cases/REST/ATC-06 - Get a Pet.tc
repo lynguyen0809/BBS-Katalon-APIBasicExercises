@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC-06 - Get a Pet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e43afc5-0c36-41b2-8aa2-78501915e481</testCaseGuid>
+   <variable>
+      <defaultValue>200</defaultValue>
+      <description></description>
+      <id>a9e978e7-3f53-4050-9e7a-45045bd38f37</id>
+      <masked>false</masked>
+      <name>statusCode</name>
+   </variable>
+   <variable>
+      <defaultValue>2</defaultValue>
+      <description></description>
+      <id>85b55477-4863-4d1a-a594-3b037137e762</id>
+      <masked>false</masked>
+      <name>expectedId</name>
+   </variable>
+   <variable>
+      <defaultValue>'name2'</defaultValue>
+      <description></description>
+      <id>09fbc0bf-a986-49e2-968a-057065f5f0bc</id>
+      <masked>false</masked>
+      <name>expectedName</name>
+   </variable>
+</TestCaseEntity>

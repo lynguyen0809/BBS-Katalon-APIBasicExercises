@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC-01 - Verify Add Calculator</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6b81a0e-7bea-4b8a-b8b9-ced5a6a094a1</testCaseGuid>
+   <variable>
+      <defaultValue>12</defaultValue>
+      <description></description>
+      <id>695db671-fa4d-4acc-843f-e904d5d2f880</id>
+      <masked>false</masked>
+      <name>n1</name>
+   </variable>
+   <variable>
+      <defaultValue>2</defaultValue>
+      <description></description>
+      <id>8bbf799c-e45a-476d-a87d-4865853e2a65</id>
+      <masked>false</masked>
+      <name>n2</name>
+   </variable>
+   <variable>
+      <defaultValue>200</defaultValue>
+      <description></description>
+      <id>a2eeb3a8-b659-4d3c-ac01-fcf5fa4ef067</id>
+      <masked>false</masked>
+      <name>statusCode</name>
+   </variable>
+   <variable>
+      <defaultValue>14</defaultValue>
+      <description></description>
+      <id>38de10b0-cefd-47cc-835c-9be747c1ffe7</id>
+      <masked>false</masked>
+      <name>addResult</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC-07 - Delete a Pet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f61263cc-ffa0-47e6-a2a0-56a860848dd6</testCaseGuid>
+   <variable>
+      <defaultValue>200</defaultValue>
+      <description></description>
+      <id>bd8593d8-c455-4a4c-8d58-4632adaa6e7a</id>
+      <masked>false</masked>
+      <name>statusCode_OK</name>
+   </variable>
+   <variable>
+      <defaultValue>404</defaultValue>
+      <description></description>
+      <id>891d8e45-7366-4e5a-86e1-8b5974684833</id>
+      <masked>false</masked>
+      <name>statusCode_NotFound</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pet not found'</defaultValue>
+      <description></description>
+      <id>a1029ab9-55aa-4ed7-a2be-e6557a5c01b5</id>
+      <masked>false</masked>
+      <name>responseMsg</name>
+   </variable>
+</TestCaseEntity>
